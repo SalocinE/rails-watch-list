@@ -1,7 +1,10 @@
-// app/assets/config/manifest.js
+// app/assets/config/.js
 //= link_tree ../images
 //= link_directory ../stylesheets .css
 //= link_tree ../../javascript .js
 //= link_tree ../../../vendor/javascript .js
+//= link popper.js
+//= link bootstrap.min.js
+// app/assets/config/manifest.js
 //= link popper.js
 //= link bootstrap.min.js
